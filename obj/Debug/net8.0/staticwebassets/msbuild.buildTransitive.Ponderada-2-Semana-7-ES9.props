@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Ponderada-2-Semana-7-ES9.props" />
+</Project>
